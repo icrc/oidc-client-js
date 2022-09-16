@@ -1,3 +1,12 @@
+# No Longer Maintained
+
+This library, while functional, is no longer being maintained. 
+
+A successor project that is showing great progress in updating and modernizing is "oidc-client-ts" and can be found [here](https://github.com/authts/oidc-client-ts).
+
+--------------------------------------------------
+
+
 [![npm package](https://badge.fury.io/js/oidc-client.svg)](https://www.npmjs.com/package/oidc-client)
 
 # oidc-client
